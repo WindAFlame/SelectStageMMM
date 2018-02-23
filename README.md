@@ -20,6 +20,8 @@ All dependancies is hosted by https://yarnpkg.com/fr/.
 |core-js|2.4.1|
 |rxjs|5.5.6|
 |zone.js|0.8.19|
+|@angular/cdk|5.2.2|
+|@angular/material|5.2.2|
 
 ## Dev
 
